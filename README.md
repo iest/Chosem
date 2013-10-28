@@ -5,7 +5,7 @@ An ember selection component build to replicate and augment the traditional `<se
 ### [View the demo](http://emberjs.jsbin.com/IGiJIZ/5)
 
   Supports expected `focus` behaviour, proper keyboard navigation, and scrolling of the option list to selected options.
-  Features 
+  Features search, and will shortly have full `multiple` support.
 
   Requires options in the form of:
   ```javascript
