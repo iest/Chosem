@@ -2,6 +2,8 @@
 
 An ember selection component build to replicate and augment the traditional `<select>` element, heavily inspired by [Harvest's Chosen library](http://harvesthq.github.io/chosen/) (hence the name).
 
+## [Demo](http://emberjs.jsbin.com/IGiJIZ/5)
+
   Supports expected `focus` behaviour, proper keyboard navigation, and scrolling of the option list to selected options.
   Features 
 
