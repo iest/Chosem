@@ -30,3 +30,9 @@ An ember selection component build to replicate and augment the traditional `<se
   ```handlebars
   {{chosem-select value=place placeholder='Choose a place...' options=places}}
   ```
+
+# How to use
+
+You'll need to put all the components in the right place in your app, and if you're using a namespace different from `App`, you'll need to change this to whatever you're using, .e.g `MyApp.ChosemSelectComponent = ...`
+
+Unfortunately there's no nice an easy way to package up these components for re-use across projects, but I'm sure the ember team will come up with something soon!
