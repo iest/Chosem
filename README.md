@@ -10,10 +10,10 @@ An ember selection component build to replicate and augment the traditional `<se
   Requires options in the form of:
   ```javascript
   [
-    {
+    Ember.Object.create({
       name: 'United Kingdom',
       value: 'uk'
-      }
+      })
   ]
   ```
   So that's an array of objects, where each object has a name and a value.
